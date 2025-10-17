@@ -69,11 +69,6 @@ The analysis combines **statistical methods**, **visualizations**, and **data-dr
 
 ---
 
-### 🚀 Future Improvements
-- Add machine learning (e.g., Linear Regression or Random Forest) to predict survival or cost  
-- Build Power BI or Plotly Dashboard for presentation  
-- Enhance with statistical summaries using `statsmodels`
-
 ---
 
 ### 📚 Learnings
