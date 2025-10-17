@@ -40,7 +40,7 @@ The analysis combines **statistical methods**, **visualizations**, and **data-dr
 - **Pandas, NumPy** → Data handling
 - **Matplotlib, Seaborn, Plotly** → Visualization
 - **SciPy** → Correlation & Hypothesis Testing
-- *(Optional for next phase: Scikit-learn for ML modeling)*
+
 
 ---
 
