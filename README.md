@@ -1,11 +1,10 @@
-# 🎗️ Cancer Statistical Analysis
+# 🧬 Cancer Statistical Analysis (2015–2024)
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-lightblue)
 
-# 🧬 Cancer Statistical Analysis (2015–2024)
 
 ### 📊 Project Overview
 This project analyzes global cancer patient data (2015–2024) to uncover the relationships between genetic, lifestyle, and environmental risk factors and their impact on treatment costs, survival years, and disease severity.
