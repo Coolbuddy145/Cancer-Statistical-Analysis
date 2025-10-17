@@ -90,6 +90,5 @@ The analysis combines **statistical methods**, **visualizations**, and **data-dr
 
 ---
 
-### ⭐ Project Rating (for Data Analyst Portfolio)
-**8.7 / 10** — Strong EDA and statistical foundation, clear storytelling, and ready for a predictive upgrade.
+
 
